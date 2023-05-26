@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685027726 source:d:\an\analiza_numerica\lab3\laboratorul3\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+
